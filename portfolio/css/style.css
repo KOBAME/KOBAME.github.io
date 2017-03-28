@@ -24,7 +24,7 @@ li{
   height: 90px;
   width: 100%;
   position: fixed;
-  z-index: 10;
+  z-index: 999;
 
 }
 
@@ -111,24 +111,35 @@ img{
   padding-bottom: 80px;
   background-color: #FFB6C1;
   float: left;
-  width:50%;
+  width:40%;
 }
 
 .contact-form{
 	float: left;
-	width: 50%;
+	width: 40%;
 	padding-top: 80px;
+  margin: 0 5%;
 	/*padding-left: 50px;*/
 }
 
-
-
-
-.calender{
-	float: left;
-	width:50%;
-	padding-bottom: 50px;
+.mailadores{
+  width:350px;
 }
+
+.contact-form textarea{
+  width: 350px;
+  height: 150px;
+}
+
+.calendar{
+	float: left;
+	width:40%;
+	padding-bottom: 50px;
+  padding-top: 80px;
+  margin: 0 5%;
+}
+
+
 
 footer{
 	width:100%;

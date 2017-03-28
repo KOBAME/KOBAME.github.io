@@ -42,7 +42,10 @@ li{
 	background-color: orange;
 
 }
-.main-container{
+.header-list a{
+  color: white;
+}
+/*.main-container{
 	background: #FFB6C1;
 }
 
@@ -59,8 +62,8 @@ li{
 	margin: 0 auto;
 
 }
-
-.top-img{
+*/
+/*.top-img{
 	width: 100%;
 	height: 600px;
 }
@@ -84,25 +87,12 @@ img{
 	margin-top:30px;
 
 }
-
-.topix {
+*/
+/*.topix {
   height: 150px;
   padding-bottom: 80px;
   background-color: #FFB6C1;
   float: left;
   width:50%;
-}
+}*/
 
-.contact-form{
-	float: left;
-	width: 50%;
-}
-.calender  h3{
-}
-
-
-.calendar{
-	float: left;
-	width:50%;
-  padding-top: 80px;
-}
